@@ -7,7 +7,8 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/90665510/156926549-4d000f95-2227-482a-b34a-9dc423468757.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/90665510/156926549-4d000f95-2227-482a-b34a-9dc423468757.gif)![ezgif com-gif-maker](https://user-images.githubusercontent.com/90665510/156927287-fd92486a-b215-455c-8648-6d961098ff25.png)
+
 
 ## 🚀 Tecnologias
 
