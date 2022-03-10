@@ -34,6 +34,6 @@ Foods é uma página no formato One Page, responsiva, para usar em diversos tipo
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
-* **Link para o projeto** - [Foods](https://diegodkid.github.io/foods/)
+* **Link para o projeto** - [Foods](https://quizzical-franklin-cb31c0.netlify.app)
 
 Feito com ♥ by Diegodkid :wave: 
