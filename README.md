@@ -17,23 +17,22 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-Bibliotecas
+Conceitos
 
-- [Google Fonts](https://fonts.google.com/)
-
-Utilitários
-
-- [FontAwesome](https://fontawesome.com/)
+- Conceitos de SPA;
+- Mapeamento de rotas;
+- Assíncrono e promises;
+- Orientação a objetos;
+- Classes e muito mais.
 
 ## 💻 Projeto
 
-Foods é uma página no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Serviços, Depoimentos, Footer
+Universe é uma página no formato SPA, projeto desenvolvildo durante o curso explorer para praticar conceitos apresentados durante as aulas.
 
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
-* **Link para o projeto** - [Foods](https://quizzical-franklin-cb31c0.netlify.app)
 
 Feito com ♥ by Diegodkid :wave: 
